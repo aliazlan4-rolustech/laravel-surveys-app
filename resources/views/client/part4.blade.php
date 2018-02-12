@@ -174,7 +174,7 @@
                 this.checked = false;
                 swal(
                     'Alert!',
-                    "You cannot select more than 6 options."
+                    "Maximum of 4 selections already reached - Please select a differnet rating."
                 );
             }
         });
